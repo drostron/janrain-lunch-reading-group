@@ -1,5 +1,7 @@
 # Janrain Lunch Reading Group
 
+[meeting-notes](meeting-notes.md)
+
 ## potential readings
 
 ### distributed systems
@@ -7,9 +9,10 @@
   - [Raft Refloated: Do We Have Consensus?](http://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf)
   - [The Secret Lives Of Data Raft Visualization](http://thesecretlivesofdata.com/raft/)
 - [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/)
-- [Distributed Systems Meta List](https://gist.github.com/macintux/6227368/revisions)
-- [SyncFree Project List](https://syncfree.lip6.fr/index.php/publications)
+- [Distributed Systems Meta List by macintux](https://gist.github.com/macintux/6227368)
+-  [Readings in distributed systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html) (Christopher Meiklejohn)
 - [Readings in Conflict Free Replicated Data Types](http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html) (Christopher Meiklejohn)
+- [SyncFree Project List](https://syncfree.lip6.fr/index.php/publications)
 - [Berkley Orders of Magnitude Papers](http://boom.cs.berkeley.edu/papers.html)
 
 ### complexity theory
