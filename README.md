@@ -13,7 +13,11 @@
 - [Berkley Orders of Magnitude Papers](http://boom.cs.berkeley.edu/papers.html)
 
 ### complexity theory
-- ...
+- [Complexity Explorer - Introduction to Complexity - Optional Readings](http://www.complexityexplorer.org/online-courses/19-introduction-to-complexity-fall-2014/materials)
+  - [Boltzmann's entropy and time's arrow](http://users.df.uba.ar/ariel/materias/FT3_2008_1C/papers_pdf/lebowitz_370.pdf)
+
+### graph theory
+- [http://graphdatabases.com/](Graph Databases by Ian Robinson, Jim Webber, Emil Eifrem) chapters from section 7, Predictive Analysis with Graph Theory
 
 ### meta
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
@@ -23,7 +27,3 @@
 - [the morning paper](http://blog.acolyer.org/)
 - [Desert Island Papers: Jonas Bonér](http://blog.acolyer.org/2015/03/15/desert-island-papers-jonas-boner/)
 - [Michael R. Bernstein's Blog](http://michaelrbernste.in/)
-
-### books
-- note: should be freely available, at least at the start of the group
-- [http://graphdatabases.com/](Graph Databases by Ian Robinson, Jim Webber, Emil Eifrem) chapters from section 7, Predictive Analysis with Graph Theory
