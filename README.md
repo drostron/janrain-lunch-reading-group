@@ -17,7 +17,10 @@
   - [Boltzmann's entropy and time's arrow](http://users.df.uba.ar/ariel/materias/FT3_2008_1C/papers_pdf/lebowitz_370.pdf)
 
 ### graph theory
-- [http://graphdatabases.com/](Graph Databases by Ian Robinson, Jim Webber, Emil Eifrem) chapters from section 7, Predictive Analysis with Graph Theory
+- [Graph Databases by Ian Robinson, Jim Webber, Emil Eifrem](http://graphdatabases.com/) chapters from section 7, Predictive Analysis with Graph Theory
+
+### data analysis
+- [Mining of Massive Datasets](http://www.mmds.org/#ver21)
 
 ### meta
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
@@ -27,3 +30,4 @@
 - [the morning paper](http://blog.acolyer.org/)
 - [Desert Island Papers: Jonas Bonér](http://blog.acolyer.org/2015/03/15/desert-island-papers-jonas-boner/)
 - [Michael R. Bernstein's Blog](http://michaelrbernste.in/)
+- [The Ballmer Peak](http://amix.dk/uploads/Coding_Drunk.jpg)

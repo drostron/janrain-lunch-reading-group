@@ -1,0 +1,22 @@
+2015-03-19
+=====
+- agenda
+  - quick overview
+  - topics: distributed systems, graph theory, functional programming, type theory, category theory, abstract algebra, incompleteness theorem, statistics, machine learning, graphics, general systems thinking, ...
+  - go around and see what subject areas people are interested in
+  - look through and update potential reading's list
+  - select a few initial readings
+  - select a good recurring day/time: appears that the current time works well
+  - reading group slack channel: yes
+- notes
+  - from here on ML will be known as Machine Learning
+  - interests around the table: distributed systems, haskell, type theory, category theory, we have expertise in graphics to share, distributed systems, machine learning, graphics, distributed systems, graph theory, abstract algebra, graph theory, functional programming, all the above, functional programming, machine learning, functional programming, type theory, category theory, abstract algebra, anything math related, functional programming, distributed systems, distributed systems, machine learning, category theory, all the above, category theory, abstract algebra, type theory, general systems thinking
+  - other interests: software development, topic related histories, artificial intelligence
+  - the group will normalize this list
+  - for now: appears to be 3ish tracks in no particular order:
+    - abstract algebra, type theory, category theory, functional programming
+    - machine learning
+    - distributed systems
+  - biweekly is good, we'll have the option to add additional lunch meetings as necessary
+  - 2-3 readings on a given topic then switch
+  - first reading will be the Raft paper
