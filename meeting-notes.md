@@ -13,6 +13,15 @@
   - interests around the table: distributed systems, haskell, type theory, category theory, we have expertise in graphics to share, distributed systems, machine learning, graphics, distributed systems, graph theory, abstract algebra, graph theory, functional programming, all the above, functional programming, machine learning, functional programming, type theory, category theory, abstract algebra, anything math related, functional programming, distributed systems, distributed systems, machine learning, category theory, all the above, category theory, abstract algebra, type theory, general systems thinking
   - other interests: software development, topic related histories, artificial intelligence
   - the group will normalize this list
+    - distributed systems: 5
+    - category theory: 5
+    - type theory: 4
+    - functional programming: 4
+    - abstract algebra: 4
+    - machine learning: 3
+    - graph theory: 3
+    - graphics: 1
+    - general systems thinking: 1
   - for now: appears to be 3ish tracks in no particular order:
     - abstract algebra, type theory, category theory, functional programming
     - machine learning
