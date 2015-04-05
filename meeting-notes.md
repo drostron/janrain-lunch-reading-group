@@ -1,3 +1,11 @@
+2015-04-02
+=====
+- discussing In Search of an Understandable Consensus Algorithm by Diego Ongaro and John Ousterhout
+- some decent videos are available on youtube, just search for "raft consensus"
+- the [Aphyr jepsen posts](https://aphyr.com/tags/jepsen) are worth a look
+- [The Secret Lives Of Data Raft Visualization](http://thesecretlivesofdata.com/raft/)
+- a little slim. we'll try and capture more of the discussion next time.
+
 2015-03-19
 =====
 - agenda
