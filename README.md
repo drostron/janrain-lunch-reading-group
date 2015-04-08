@@ -39,6 +39,7 @@ for Practical Partial Quorums](http://pbs.cs.berkeley.edu/pbs-vldb2012.pdf) by P
 - [Type-Safe Distributed Programming for OCaml](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.61.9966&rep=rep1&type=pdf) by John
  Billings et al.
 - [ZooKeeper: Wait-free coordination for Internet-scale systems]() by Hunt et al.
+- [Boltzmann's entropy and time's arrow](http://users.df.uba.ar/ariel/materias/FT3_2008_1C/papers_pdf/lebowitz_370.pdf) by Joel L. Lebowitz
 
 ## back burner
 _pending feedback from the group_
@@ -60,7 +61,6 @@ _pending feedback from the group_
 
 ### complexity theory
 - [Complexity Explorer - Introduction to Complexity - Optional Readings](http://www.complexityexplorer.org/online-courses/19-introduction-to-complexity-fall-2014/materials)
-  - [Boltzmann's entropy and time's arrow](http://users.df.uba.ar/ariel/materias/FT3_2008_1C/papers_pdf/lebowitz_370.pdf)
 
 ### graph theory
 - [Graph Databases](http://graphdatabases.com/) by Ian Robinson, Jim Webber, Emil Eifrem
