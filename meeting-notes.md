@@ -1,3 +1,13 @@
+2015-04-16
+=====
+- discussing Consistency Analysis in Bloom: a CALM and Collected Approach by Peter Alvaro, Neil Conway, Joseph M. Hellerstein, William R. Marczak
+- the group found the context and problem the paper was trying to solve a bit vague
+- spent about half the meeting on high level ideas and discussion
+- spent the other half on discussion of the code snippets in the paper and the chat example in the bud repo
+- there's interest in adding the Google GFS, BigTable, and MR papers to on deck
+- there's interest in adding Dedalus: Datalog in Time and Space to on deck
+- again the notes here are bit slim. maybe we'll split leading discussion and note taking responsibilities next time.
+
 2015-04-02
 =====
 - discussing In Search of an Understandable Consensus Algorithm by Diego Ongaro and John Ousterhout

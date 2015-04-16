@@ -7,18 +7,27 @@ great place to find interesting papers: [the morning paper](http://blog.acolyer.
 [meeting-notes](meeting-notes.md)
 
 ## currently reading
-- [Consistency Analysis in Bloom: a CALM and Collected Approach](http://www.cs.berkeley.edu/~palvaro/cidr11.pdf) by Peter Alvaro, Neil Conway, Joseph M. Hellerstein, William R. Marczak
+...
 
 ## on deck
 ### Distributed Systems
+- [Dedalus: Datalog in Time and Space](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.pdf) by Peter Alvaro et al.
+- [The Google File System](http://static.googleusercontent.com/media/research.google.com/en/us/archive/gfs-sosp2003.pdf) by Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung
 - [Consistency Without Borders](
 http://www.cs.berkeley.edu/~palvaro/a23-alvaro.pdf) by Peter Alvaro, Peter Bailis, Neil Conway, Joseph M. Hellerstein
 - [Consistency, Availability, and Convergence](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf) by Prince Mahajan, Lorenzo Alvisi, and Mike Dahlin
+- [Probabilistically Bounded Staleness
+for Practical Partial Quorums](http://pbs.cs.berkeley.edu/pbs-vldb2012.pdf) by Peter Bailis et al.
+- [Highly Available Transactions - Virtues and Limitations](http://db.cs.berkeley.edu/papers/vldb14-hats.pdf) by Peter Bailis et al.
+- [Bigtable: A Distributed Storage System for Structured Data](Bigtable: A Distributed Storage System for Structured Data) by Fay Chang et al.
 - [Don’t Settle for Eventual:
 Scalable Causal Consistency for Wide-Area Storage with COPS](http://www.cs.princeton.edu/~mfreed/docs/cops-sosp11.pdf) by Wyatt Lloyd et al.
 - [Impala: A Modern, Open-Source SQL Engine for Hadoop](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper28.pdf) by Marcel Kornacker et al.
 - [Acute: High-Level Programming Language Design for Distributed Computation](http://www.di.ens.fr/~zappa/readings/icfp05.pdf) by Peter Sewell et al.
+- [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://www.cs.berkeley.edu/~sameerag/blinkdb_eurosys13.pdf) by Agarwal et al.
+- [Knowing When You’re Wrong: Building Fast and Reliable Approximate Query Processing Systems](http://www.cs.berkeley.edu/~sameerag/mod282-agarwal.pdf) by Agarwal et al.
 - [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](https://www.cs.berkeley.edu/~alig/papers/mesos.pdf) by Benjamin Hindman et al.
+- [MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf) by Jeffrey Dean and Sanjay Ghemawat
 - [Reliable Massively Parallel Symbolic Computing: Fault Tolerance for a Distributed Haskell](http://www.dcs.gla.ac.uk/~trinder/theses/Stewart.pdf) by Robert Stewart
 - [Understanding and expressing scalable concurrency](https://www.mpi-sws.org/~turon/turon-thesis.pdf) by Aaron Turon _(2014 SIGPLAN John C. Reynolds Doctoral Dissertation Award)_
 - [Towards Haskell in the Cloud](http://research.microsoft.com/en-us/um/people/simonpj/papers/parallel/remote.pdf) by Jeff Epstein, Andrew P. Black, Simon Peyton-Jones
@@ -34,6 +43,9 @@ Scalable Causal Consistency for Wide-Area Storage with COPS](http://www.cs.princ
 - [Type-Safe Distributed Programming for OCaml](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.61.9966&rep=rep1&type=pdf) by John
  Billings et al.
 
+### Type Theory
+- [Dependently Typed Programming in Agda](http://www.cse.chalmers.se/~ulfn/darcs/AFP08/LectureNotes/AgdaIntro.pdf) by Ulf Norell, James Chapman
+
 ### Logic and Formal Mathematics
 - [The Complexity of Theorem-Proving Procedures](http://4mhz.de/download.php?file=Cook1971_Letter.pdf) by Stephen A. Cook
 - [How to Write a 21st Century Proof](http://research.}microsoft.com/en-us/um/people/lamport/pubs/proof.pdf) by
@@ -43,13 +55,7 @@ Leslie Lamport
 - [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf) by Peter Van Roy
 
 ### uncategorized (feel free to!)
-- [Dependently Typed Programming in Agda](http://www.cse.chalmers.se/~ulfn/darcs/AFP08/LectureNotes/AgdaIntro.pdf) by Ulf Norell, James Chapman
 - [Specialized Evolution of the General-Purpose CPU](http://www.cidrdb.org/cidr2015/CIDR15_KeyNote.pdf) by Ravi Rajwar, Martin Dixon, Ronak Singha
-- [Probabilistically Bounded Staleness
-for Practical Partial Quorums](http://pbs.cs.berkeley.edu/pbs-vldb2012.pdf) by Peter Bailis et al.
-- [Highly Available Transactions - Virtues and Limitations]() by Peter Bailis et al.
-- [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://www.cs.berkeley.edu/~sameerag/blinkdb_eurosys13.pdf) by Agarwal et al.
-- [Knowing When You’re Wrong: Building Fast and Reliable Approximate Query Processing Systems](http://www.cs.berkeley.edu/~sameerag/mod282-agarwal.pdf) by Agarwal et al.
 - [Use of Formal Methods at Amazon Web Services](http://research.microsoft.com/en-us/um/people/lamport/tla/formal-methods-amazon.pdf) by Chris Newcombe et al.
 - [The Elements of Statistical Learning Data Mining, Inference, and Prediction](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
 - [Boltzmann's entropy and time's arrow](http://users.df.uba.ar/ariel/materias/FT3_2008_1C/papers_pdf/lebowitz_370.pdf) by Joel L. Lebowitz
@@ -59,6 +65,7 @@ _pending feedback from the group_
 
 ## discussed
 - [In Search of an Understandable Consensus Algorithm](http://ramcloud.stanford.edu/raft.pdf) by Diego Ongaro and John Ousterhout
+- [Consistency Analysis in Bloom: a CALM and Collected Approach](http://www.cs.berkeley.edu/~palvaro/cidr11.pdf) by Peter Alvaro, Neil Conway, Joseph M. Hellerstein, William R. Marczak
 
 ## potential readings
 
