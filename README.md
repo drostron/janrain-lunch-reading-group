@@ -48,7 +48,7 @@ Scalable Causal Consistency for Wide-Area Storage with COPS](http://www.cs.princ
 
 ### Logic and Formal Mathematics
 - [The Complexity of Theorem-Proving Procedures](http://4mhz.de/download.php?file=Cook1971_Letter.pdf) by Stephen A. Cook
-- [How to Write a 21st Century Proof](http://research.}microsoft.com/en-us/um/people/lamport/pubs/proof.pdf) by
+- [How to Write a 21st Century Proof](http://research.microsoft.com/en-us/um/people/lamport/pubs/proof.pdf) by
 Leslie Lamport
 
 ### Software Engineering
