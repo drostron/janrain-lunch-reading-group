@@ -1,4 +1,4 @@
-papers of potential interest that I've run across buy haven't skimmed yet
+papers of potential interest that I've run across but haven't skimmed yet
 
 - [A Family of Algorithms for Computing Consensus about
 Node State from Network Data](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3715438/pdf/pcbi.1003109.pdf) by Eleanor R. Brush, David C. Krakauer, Jessica C. Flack
