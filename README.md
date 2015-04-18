@@ -7,7 +7,7 @@ great place to find interesting papers: [the morning paper](http://blog.acolyer.
 [meeting-notes](meeting-notes.md)
 
 ## currently reading
-...
+- [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/) by Mikito Takada
 
 ## on deck
 ### Distributed Systems
@@ -73,7 +73,6 @@ _pending feedback from the group_
 
 ### distributed systems
 - [Raft Refloated: Do We Have Consensus?](http://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf)
-- [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/)
 - [Distributed Systems Meta List](https://gist.github.com/macintux/6227368) by macintux
 -  [Readings in distributed systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html) by Christopher Meiklejohn
 - [Readings in Conflict Free Replicated Data Types](http://christophermeiklejohn.com/crdt/2014/07/22/readings-in-crdts.html) by Christopher Meiklejohn
