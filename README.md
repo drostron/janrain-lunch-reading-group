@@ -18,10 +18,12 @@ http://www.cs.berkeley.edu/~palvaro/a23-alvaro.pdf) by Peter Alvaro, Peter Baili
 - [Consistency, Availability, and Convergence](http://www.cs.utexas.edu/users/dahlin/papers/cac-tr.pdf) by Prince Mahajan, Lorenzo Alvisi, and Mike Dahlin
 - [Probabilistically Bounded Staleness
 for Practical Partial Quorums](http://pbs.cs.berkeley.edu/pbs-vldb2012.pdf) by Peter Bailis et al.
+- [Dynamo: Amazon’s Highly Available Key-value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) by Giuseppe DeCandia et al., [pdf alternative](http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
 - [Highly Available Transactions - Virtues and Limitations](http://db.cs.berkeley.edu/papers/vldb14-hats.pdf) by Peter Bailis et al.
 - [Bigtable: A Distributed Storage System for Structured Data](Bigtable: A Distributed Storage System for Structured Data) by Fay Chang et al.
 - [Don’t Settle for Eventual:
 Scalable Causal Consistency for Wide-Area Storage with COPS](http://www.cs.princeton.edu/~mfreed/docs/cops-sosp11.pdf) by Wyatt Lloyd et al.
+- [Dremel: Interactive Analysis of Web-Scale Datasets](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36632.pdf) by Sergey Melnik et al.
 - [Impala: A Modern, Open-Source SQL Engine for Hadoop](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper28.pdf) by Marcel Kornacker et al.
 - [Acute: High-Level Programming Language Design for Distributed Computation](http://www.di.ens.fr/~zappa/readings/icfp05.pdf) by Peter Sewell et al.
 - [BlinkDB: Queries with Bounded Errors and Bounded Response Times on Very Large Data](http://www.cs.berkeley.edu/~sameerag/blinkdb_eurosys13.pdf) by Agarwal et al.
