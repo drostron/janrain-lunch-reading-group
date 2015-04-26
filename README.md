@@ -18,6 +18,7 @@ great place to find interesting papers: [the morning paper](http://blog.acolyer.
 - [MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf) by Jeffrey Dean and Sanjay Ghemawat
 - [Dremel: Interactive Analysis of Web-Scale Datasets](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36632.pdf) by Sergey Melnik et al.
 - [Impala: A Modern, Open-Source SQL Engine for Hadoop](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper28.pdf) by Marcel Kornacker et al.
+- [Large-scale cluster management at Google with Borg](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43438.pdf) by Abhishek Verma et al.
 - [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center](https://www.cs.berkeley.edu/~alig/papers/mesos.pdf) by Benjamin Hindman et al.
 - [ZooKeeper: Wait-free coordination for Internet-scale systems](https://www.usenix.org/legacy/event/atc10/tech/full_papers/Hunt.pdf) by Hunt et al.
 - [Consistency Without Borders](
