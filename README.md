@@ -7,13 +7,12 @@ great place to find interesting papers: [the morning paper](http://blog.acolyer.
 [meeting-notes](meeting-notes.md)
 
 ## currently reading
-- [The Google File System](http://static.googleusercontent.com/media/research.google.com/en/us/archive/gfs-sosp2003.pdf) by Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung
+- [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en/us/archive/bigtable-osdi06.pdf) by Fay Chang et al.
 
 ## on deck
 ### Distributed Systems
 - [Dedalus: Datalog in Time and Space](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.pdf) by Peter Alvaro et al.
 - [Dynamo: Amazon’s Highly Available Key-value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) by Giuseppe DeCandia et al., [pdf alternative](http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
-- [Bigtable: A Distributed Storage System for Structured Data](Bigtable: A Distributed Storage System for Structured Data) by Fay Chang et al.
 - [MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/media/research.google.com/en/us/archive/mapreduce-osdi04.pdf) by Jeffrey Dean and Sanjay Ghemawat
 - [Dremel: Interactive Analysis of Web-Scale Datasets](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36632.pdf) by Sergey Melnik et al.
 - [Impala: A Modern, Open-Source SQL Engine for Hadoop](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper28.pdf) by Marcel Kornacker et al.
@@ -69,6 +68,8 @@ _pending feedback from the group_
 - [In Search of an Understandable Consensus Algorithm](http://ramcloud.stanford.edu/raft.pdf) by Diego Ongaro and John Ousterhout
 - [Consistency Analysis in Bloom: a CALM and Collected Approach](http://www.cs.berkeley.edu/~palvaro/cidr11.pdf) by Peter Alvaro, Neil Conway, Joseph M. Hellerstein, William R. Marczak
 - [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/) by Mikito Takada
+- [The Google File System](http://static.googleusercontent.com/media/research.google.com/en/us/archive/gfs-sosp2003.pdf) by Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung
+
 
 ## potential readings
 
