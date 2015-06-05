@@ -7,7 +7,7 @@ great place to find interesting papers: [the morning paper](http://blog.acolyer.
 [meeting-notes](meeting-notes.md)
 
 ## currently reading
-- [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en/us/archive/bigtable-osdi06.pdf) by Fay Chang et al.
+- [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Pedro Domingos
 
 ## on deck
 ### Distributed Systems
@@ -69,7 +69,7 @@ _pending feedback from the group_
 - [Consistency Analysis in Bloom: a CALM and Collected Approach](http://www.cs.berkeley.edu/~palvaro/cidr11.pdf) by Peter Alvaro, Neil Conway, Joseph M. Hellerstein, William R. Marczak
 - [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/) by Mikito Takada
 - [The Google File System](http://static.googleusercontent.com/media/research.google.com/en/us/archive/gfs-sosp2003.pdf) by Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung
-
+- [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en/us/archive/bigtable-osdi06.pdf) by Fay Chang et al.
 
 ## potential readings
 
