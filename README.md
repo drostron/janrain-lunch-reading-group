@@ -6,9 +6,6 @@ great place to find interesting papers: [the morning paper](http://blog.acolyer.
 
 [meeting-notes](meeting-notes.md)
 
-## currently reading
-- [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Pedro Domingos
-
 ## on deck
 ### Distributed Systems
 - [Dedalus: Datalog in Time and Space](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.pdf) by Peter Alvaro et al.
@@ -61,15 +58,13 @@ Leslie Lamport
 - [The Elements of Statistical Learning Data Mining, Inference, and Prediction](http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf) by Trevor Hastie, Robert Tibshirani, Jerome Friedman
 - [Boltzmann's entropy and time's arrow](http://users.df.uba.ar/ariel/materias/FT3_2008_1C/papers_pdf/lebowitz_370.pdf) by Joel L. Lebowitz
 
-## back burner
-_pending feedback from the group_
-
 ## discussed
 - [In Search of an Understandable Consensus Algorithm](http://ramcloud.stanford.edu/raft.pdf) by Diego Ongaro and John Ousterhout
 - [Consistency Analysis in Bloom: a CALM and Collected Approach](http://www.cs.berkeley.edu/~palvaro/cidr11.pdf) by Peter Alvaro, Neil Conway, Joseph M. Hellerstein, William R. Marczak
 - [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/) by Mikito Takada
 - [The Google File System](http://static.googleusercontent.com/media/research.google.com/en/us/archive/gfs-sosp2003.pdf) by Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung
 - [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en/us/archive/bigtable-osdi06.pdf) by Fay Chang et al.
+- [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) by Pedro Domingos
 
 ## potential readings
 
