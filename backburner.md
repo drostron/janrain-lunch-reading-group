@@ -1,5 +1,6 @@
 papers of potential interest that I've run across but haven't skimmed yet
 
+- [IPFS - Content Addressed, Versioned, P2P File System (DRAFT 3) by Juan Benet](https://github.com/ipfs/papers/blob/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
 - [A Layered Grammar of Graphics](http://vita.had.co.nz/papers/layered-grammar.pdf) by Hadley Wickham
 - [A Family of Algorithms for Computing Consensus about
 Node State from Network Data](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3715438/pdf/pcbi.1003109.pdf) by Eleanor R. Brush, David C. Krakauer, Jessica C. Flack
