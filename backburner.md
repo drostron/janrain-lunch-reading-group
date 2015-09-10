@@ -1,5 +1,7 @@
 papers of potential interest that I've run across but haven't skimmed yet
 
+- [Matrix Factorization Techniques for Recommender Systems](http://www2.research.att.com/~volinsky/papers/ieeecomputer.pdf) by Yehuda Koren et al.
+- [The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf) by Tyler Akidau et al.
 - [IPFS - Content Addressed, Versioned, P2P File System (DRAFT 3)](https://github.com/ipfs/papers/blob/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf) by Juan Benet
 - [A Layered Grammar of Graphics](http://vita.had.co.nz/papers/layered-grammar.pdf) by Hadley Wickham
 - [A Family of Algorithms for Computing Consensus about
